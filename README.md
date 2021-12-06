@@ -9,6 +9,7 @@
   - [ez crypt message](./cryptography/ez_crypt_message.md)
   - [only number cipher](./cryptography/only_number_cipher.md)
   - [to you far away](./cryptography/to_you_far_away.md)
+  - [Baes64](./cryptography/Baes64/Baes64.md)
 <br><br>
 - osint
   - [who take this](./osint/who_take_this.md)
@@ -38,6 +39,7 @@
   - [Can you find it?](./general_skill/Can_you_find_it.md)
   - [Can u print ascii](./general_skill/Can_u_print_ascii.md)
   - [how many primes](./general_skill/how_many_primes.md)
+  - [pdf](./general_skill/pdf/pdf.md)
 <br><br>
 - office
   - [excel beginner](./office/excel_beginner.md)
@@ -48,3 +50,6 @@
   - [pwn_begin](./pwnable/pwn_begin/pwn_begin.md)
   - [DreamWorld](./pwnable/DreamWorld/DreamWorld.md)
   - [937func](./pwnable/937func/937func.md)
+<br><br>
+- [malware](./malware/readme.md)
+  - [Ransomware](./malware/Ransomware/Ransomware.md)
