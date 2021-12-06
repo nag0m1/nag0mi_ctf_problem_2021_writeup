@@ -8,8 +8,10 @@
 - cryptography
   - [ez crypt message](./cryptography/ez_crypt_message.md)
   - [only number cipher](./cryptography/only_number_cipher.md)
+  - [From_the_Universe](./cryptography/From_the_Universe/From_the_Universe.md)
   - [to you far away](./cryptography/to_you_far_away.md)
   - [Baes64](./cryptography/Baes64/Baes64.md)
+  - [anonymous](./cryptography/anonymous/anonymous.md)
 <br><br>
 - osint
   - [who take this](./osint/who_take_this.md)
@@ -35,11 +37,12 @@
 <br><br>
 - general skill
   - [sanity check](./general_skill/sanity_check.md)
-  - [where](./general_skill/where.md)
-  - [Can you find it?](./general_skill/Can_you_find_it.md)
   - [Can u print ascii](./general_skill/Can_u_print_ascii.md)
   - [how many primes](./general_skill/how_many_primes.md)
   - [pdf](./general_skill/pdf/pdf.md)
+  - [where](./general_skill/where.md)
+  - [Can you find it?](./general_skill/Can_you_find_it.md)
+  - [Godzila](./general_skill/Godzila/Godzila.md)
 <br><br>
 - office
   - [excel beginner](./office/excel_beginner.md)
